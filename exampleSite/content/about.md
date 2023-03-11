@@ -14,7 +14,7 @@ experience:
   title: Security Acknowledgement
   experience_list:
   - "[COMPANY] Dicoding"
-  - "[GOV] Orami"
+  - "[COMPANY] Orami"
   - "[COMPANY] Proton Mail"
   - "[GOV] Bekasi District"
   - "[GOV] BUMN"
