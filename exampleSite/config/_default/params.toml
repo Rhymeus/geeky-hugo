@@ -31,7 +31,7 @@ recent_post_title = "Recent Post"
 related_posts = "Related Posts"
 search = true
 showing_posts = "Showing Post From"
-theme_copyright = true
+theme_copyright = false
 [advertisement]
 image = "images/promotion.png"
 link = "../"
