@@ -8,7 +8,12 @@ education:
   title: Honors & Awards
   education_list:
   - name: Top 5 Winner Of Kemdikbud Bug Bounty 2022
-    content: Issued by Kemdikbudristek - August 2022
+    content: 'Report a valid security issue, reporting four critical severity and
+      one high severity  Due to the policy in this competition, I can''t provide further
+      details about what vulnerabilities I''m reporting, because in this competition
+      the coverage given is websites on "Kemdikbud subdomains" which are active until
+      now.  The following is a link to the documentation related to the vulnerability
+      report above: https://s.id/bug_bounty_2022_pusdatin-ray https://amanbersama.kemdikbud.go.id'
 experience:
   enable: true
   title: Security Acknowledgement
