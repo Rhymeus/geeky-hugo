@@ -2,7 +2,6 @@
 categories = ["programming"]
 date = 2021-01-24T12:19:25Z
 description = "meta description"
-draft = true
 image = "images/post/post-6.png"
 title = "test"
 type = "featured"
