@@ -17,7 +17,7 @@ education:
     content: 1985 • 1991 • gravida nibh velvelit auctor alimo quet menean solli
 experience:
   enable: true
-  title: Experience & Security Acknowledgement
+  title: Experience
   experience_list:
   - Best Writer Award
   - Best New Newel
