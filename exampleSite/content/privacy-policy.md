@@ -1,9 +1,9 @@
 ---
-title: Privacy Policy
+title: Terms & Condition
 description: this is meta-description
 
 ---
-### Privacy Policy
+### Terms & Condition
 
 Before you start reading any posts on our website, we kindly ask you to take note of a few terms and condition. Thanks taking the time to read our content.
 
