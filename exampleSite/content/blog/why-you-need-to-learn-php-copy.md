@@ -4,7 +4,7 @@ date = 2021-01-24T12:19:25Z
 description = "meta description"
 image = "images/post/post-6.png"
 title = "test"
-type = "featured"
+type = "featuredtettet"
 
 +++
 Nam ut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat. Integer eu ipsum sem. Ut bibendum lacus vestibulum maximus suscipit. Quisque vitae nibh iaculis neque blandit euismod. Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius!
