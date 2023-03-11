@@ -29,4 +29,4 @@ Hello, I am a student majoring in **Information Systems** at **Singaperbangsa Ka
 
 Furthermore, I have experience in conducting **penetration testing** and **bug hunting** for companies and government. I also achieved the Top 5 Winners of the Kemdikbud Bug Bounty 2022, which further strengthened my interest in the field of **cybersecurity**. The competition involved performing pentesting on government systems that were still operational.
 
-I am very interested in a career in **cybersecurity** and developing secure information systems. I pledge to continue learning and growing throughout my career and to contribute to the organizations I serve in the future.
+I am very interested in a career in **cybersecurity** and developing secure information systems. I am committed to continuous learning and growth in my career and contributing to the organizations I serve in the future.
