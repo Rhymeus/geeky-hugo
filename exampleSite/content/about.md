@@ -21,7 +21,7 @@ experience:
   - "[GOV] East Java"
   - "[GOV] Jakarta Province"
   - "[COMPANY] Jotform Inc."
-  - "[GOV] Diskominfo Sampang"
+  - "[GOV] Sampang District"
   - "[GOV] Finance Ministry"
 
 ---
