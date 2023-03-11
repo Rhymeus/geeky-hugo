@@ -5,10 +5,10 @@ image: images/author.png
 layout: about
 education:
   enable: true
-  title: Formal Education
+  title: Honors & Awards
   education_list:
-  - name: Southeast University
-    content: 1985 • 1991 • gravida nibh velvelit auctor alimo quet menean solli
+  - name: Top 5 Winner Of Kemdikbud Bug Bounty 2022
+    content: Issued by Kemdikbudristek - August 2022
   - name: Northeast University
     content: 1985 • 1991 • gravida nibh velvelit auctor alimo quet menean solli
   - name: Easteast University
