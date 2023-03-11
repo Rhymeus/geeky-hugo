@@ -57,7 +57,7 @@ enable = false
 mailchimp_form_action = "https://gmail.us4.list-manage.com/subscribe/post?u=463ee871f45d2d93748e77cad&amp;id=a0a2c6d074"
 mailchimp_form_name = "b_463ee871f45d2d93748e77cad_a0a2c6d074"
 newsletter_button = "Sign in"
-newsletter_invitation = "Join thousands of Tiny Salt subscribers and get our best recipes delivered each week!"
+newsletter_invitation = "Subscribe to this blog to get our best writeups submitted every week!"
 newsletter_placeholder = "Type And Hit Enter"
 newsletter_reminder_a = "By Singing Up, You Agree To"
 newsletter_reminder_b = "Privacy Policy"
