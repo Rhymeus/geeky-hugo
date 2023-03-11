@@ -9,12 +9,6 @@ education:
   education_list:
   - name: Top 5 Winner Of Kemdikbud Bug Bounty 2022
     content: Issued by Kemdikbudristek - August 2022
-  - name: Northeast University
-    content: 1985 • 1991 • gravida nibh velvelit auctor alimo quet menean solli
-  - name: Easteast University
-    content: 1985 • 1991 • gravida nibh velvelit auctor alimo quet menean solli
-  - name: Southeast University
-    content: 1985 • 1991 • gravida nibh velvelit auctor alimo quet menean solli
 experience:
   enable: true
   title: Security Acknowledgement
