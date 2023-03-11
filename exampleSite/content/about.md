@@ -17,16 +17,16 @@ education:
     content: 1985 • 1991 • gravida nibh velvelit auctor alimo quet menean solli
 experience:
   enable: true
-  title: Experience
+  title: Security Acknowledgement
   experience_list:
-  - Best Writer Award
-  - Best New Newel
-  - Best Book
-  - Best Article
-  - Best New Newel
-  - Best New Newel
-  - Best Book
-  - "[GOV] Kementrian Keuangan"
+  - "[COMPANY] Dicoding"
+  - "[GOV] Orami"
+  - "[COMPANY] Proton Mail"
+  - "[GOV] Bekasi District"
+  - "[GOV] BUMN"
+  - "[GOV] East Java"
+  - "[GOV] Jakarta Province"
+  - "[COMPANY] Jotform Inc."
   - "[GOV] Diskominfo Sampang"
   - "[GOV] Kementrian Keuangan"
 
