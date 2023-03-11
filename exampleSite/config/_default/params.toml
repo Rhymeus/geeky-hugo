@@ -34,7 +34,7 @@ showing_posts = "Showing Post From"
 theme_copyright = true
 [advertisement]
 image = "images/promotion.png"
-link = "https://gethugothemes.com/"
+link = "#"
 [banner]
 background_image = "/images/banner-bg-shape.svg"
 button_label = "Know About Me"
