@@ -15,13 +15,13 @@ sections:
 - type: heading
   label: Blog
 - type: document
-  path: exampleSite/content/english/blog/_index.md
+  path: exampleSite/content/en/blog/_index.md
   label: Blog Page (en)
 - type: document
-  path: exampleSite/content/deutsch/blog/_index.md
-  label: Blog Page (de)
+  path: exampleSite/content/id/blog/_index.md
+  label: Blog Page (id)
 - type: directory
-  path: exampleSite/content/english/blog
+  path: exampleSite/content/en/blog
   label: Blog Post (en)
   create: documents
   match: "**/*"
@@ -29,8 +29,8 @@ sections:
   templates:
   - post
 - type: directory
-  path: exampleSite/content/deutsch/blog
-  label: Blog Post (de)
+  path: exampleSite/content/id/blog
+  label: Blog Post (id)
   create: documents
   match: "**/*"
   exclude: _index.md
