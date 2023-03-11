@@ -7,7 +7,7 @@ languageName = "En"
 paginate = "6"
 summaryLength = "20"
 theme = "geeky-hugo"
-title = "Geeky | Hugo Personal Blog Template"
+title = "Rhymeus Writeups"
 [caches.assets]
 dir = ":resourceDir/_gen"
 maxAge = "720h"
