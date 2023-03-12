@@ -1,11 +1,11 @@
 +++
 categories = []
-date = 2020-01-08T12:19:25Z
+date = 2020-01-09T12:19:25Z
 description = "meta description"
 draft = true
 image = "/images/coming-soon-banner.png"
 title = "Coming Soon"
-type = "featured"
+type = "regular"
 
 +++
 Nam ut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat. Integer eu ipsum sem. Ut bibendum lacus vestibulum maximus suscipit. Quisque vitae nibh iaculis neque blandit euismod. Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius!
