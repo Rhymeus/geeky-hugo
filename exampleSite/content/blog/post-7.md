@@ -1,6 +1,6 @@
 ---
 title: Robotic world is growing very fast
-description: test
+description: meta description
 image: images/post/post-1.png
 date: 2021-01-24T18:19:25.000+06:00
 categories:
