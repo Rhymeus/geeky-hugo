@@ -5,7 +5,7 @@ image: images/post/post-4.png
 date: 2021-01-24T18:19:25.000+06:00
 categories:
 - Bug Bounty
-- id
+- Dicoding
 type: featured
 
 ---
