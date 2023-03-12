@@ -1,13 +1,12 @@
 ---
-title: "My work from home workstation"
-description: "meta description"
-image: "images/post/post-5.png"
-date: 2021-01-24T18:19:25+06:00
-categories: ["workstation"]
-type: "featured" # available types: [featured/regular]
-draft: false
----
+title: Coming Soon
+description: meta description
+image: "/images/coming-soon-banner.png"
+date: 2021-01-24T18:19:25.000+06:00
+categories: []
+type: featured
 
+---
 Nam ut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat. Integer eu ipsum sem. Ut bibendum lacus vestibulum maximus suscipit. Quisque vitae nibh iaculis neque blandit euismod. Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius!
 
 
