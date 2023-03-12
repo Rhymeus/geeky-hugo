@@ -1,5 +1,5 @@
 ---
-title: What you need to know about Programming
+title: Coming Soon
 description: meta description
 image: "/images/coming-soon-banner.png"
 date: 2021-01-24T18:19:25.000+06:00
