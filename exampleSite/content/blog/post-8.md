@@ -1,13 +1,12 @@
 ---
-title: "Drone Software and Development"
-description: "meta description"
-image: "images/post/post-8.png"
-date: 2021-01-24T18:19:25+06:00
-categories: ["drone"]
-type: "regular" # available types: [featured/regular]
-draft: false
----
+title: Coming Soon
+description: meta description
+image: "/images/coming-soon-banner.png"
+date: 2021-01-17T12:19:25+00:00
+categories: []
+type: featured
 
+---
 Nam ut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat. Integer eu ipsum sem. Ut bibendum lacus vestibulum maximus suscipit. Quisque vitae nibh iaculis neque blandit euismod. Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius!
 
 
