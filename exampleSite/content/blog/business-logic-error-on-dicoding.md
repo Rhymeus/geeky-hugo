@@ -17,6 +17,8 @@ Setelah saya lulus MSIB dan mendapatkan 1000 point dicoding, saya mulai mencari 
 
 #### Apa itu Race Conditon?
 
+> Kerentanan race condition adalah sebuah situasi di mana beberapa proses yang berjalan bersamaan saling berkompetisi untuk mengakses dan memanipulasi data yang sama. Apabila nilai akhir dari data tersebut tergantung pada proses terakhir yang selesai, maka terdapat risiko kerentanan race condition yang dapat menghasilkan kesalahan dalam logika bisnis.
+
 ![](https://miro.medium.com/v2/resize:fit:360/0*DVIMwe5k8C4g7dsq.png "Sumber : https://www.mcafee.com/blogs/enterprise/testing-race-conditions-web-applications/")
 
 Misalkan, ketika 2 atau lebih user ingin melakukan perubahan data pada record yang sama, maka akan sering terjadi konflik inilah yang biasa disebut dengan _race condition._ Dengan kata lain, pada _concurrent_ proses, salah satu yang selesai duluan maka berhasil menang, dan yang lain akan mendapatkan error.
