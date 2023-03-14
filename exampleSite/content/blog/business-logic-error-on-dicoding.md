@@ -44,4 +44,13 @@ Langkah-langkah:
 
    ![](/images/dicoding-poc-2.png)
 6. Klik Attack dan dapat dilihat penyerang dapat melakukan request secara bersamaan yaitu 3 request dalam waktu yang sama, dampak nya yaitu hanya dengan menggunakan 300 point tetapi pesanan yang terkonfirmasi ada 3.
-7. ![Point awal](/images/dicoding-poc-3.png "Point awal")
+
+   ![Point awal](/images/dicoding-poc-3.png "Point awal")
+
+   Bug ter-exploitasi:
+
+   ![](/images/dicoding-poc-4.png)
+
+   Ketika 3 pesanan diatas dibatalkan oleh admin maka point akan dikembalikan. Jadi hanya modal 300 point, dengan menggunakan methode ini point tersebut akan kembali 3x lipat yaitu 900 Point:
+
+   ![](/images/dicoding-poc-5.png)
