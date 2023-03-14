@@ -15,11 +15,13 @@ Sebelum saya masuk ke pembahasan, saya akan memberikan sedikit cerita sebelum sa
 
 Setelah saya lulus MSIB dan mendapatkan 1000 point dicoding, saya mulai mencari celah keamanan pada platform dicoding. Setelah melakukan beberapa uji coba, saya menemukan kerentanan yang disebabkan oleh race condition pada parameter "point". Kerentanan ini memungkinkan user untuk menggunakan poin tanpa harus membayar biaya apa pun / user dapat menggandakan point.
 
-#### Covid-19 Situation
+#### Apa itu Race Conditon?
 
-Nam ut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat. Integer eu ipsum sem. Ut bibendum lacus vestibulum maximus suscipit. Quisque vitae nibh iaculis neque blandit euismod.
+![](https://miro.medium.com/v2/resize:fit:360/0*DVIMwe5k8C4g7dsq.png)
 
-> Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius!
+Misalkan, ketika 2 atau lebih user ingin melakukan perubahan data pada record yang sama, maka akan sering terjadi konflik inilah yang biasa disebut dengan _race condition._ Dengan kata lain, pada _concurrent_ proses, salah satu yang selesai duluan maka berhasil menang, dan yang lain akan mendapatkan error.
+
+Bug ini kerap kali disalahgunakan oleh para hacker untuk mengeksploitasi sistem, dimana seharusnya user tersebut dapat melakukan suatu aksi sekali namun user mendapat keuntungan lain setelah melakukan aksi beberapa kali (secara simultan)
 
 #### Work From Home
 
