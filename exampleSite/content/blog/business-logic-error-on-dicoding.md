@@ -56,3 +56,14 @@ Langkah-langkah:
    Ketika 3 pesanan diatas dibatalkan oleh admin maka point akan dikembalikan. Jadi hanya modal 300 point, dengan menggunakan methode ini point tersebut akan kembali 3x lipat yaitu 900 Point:
 
    ![](/images/dicoding-poc-5.png)
+
+Berikut langkah-langkah berupa video: [https://youtu.be/_BLyoVYGLTo](https://youtu.be/_BLyoVYGLTo "https://youtu.be/_BLyoVYGLTo")
+
+#### Timeline
+
+* **Report:** 14 February 2023
+* **Triage:** 22 February 2023
+* **Fix:** Resolved
+* **Rewards:** Undisclosed
+
+Demikian writeup yang dapat saya tulis dan saya bagikan pada kesempatan kali ini, semoga tulisan ini dapat bermanfaat dan memotivasi rekan-rekan bug hunter yang lain. Jika ada kesalahan atau kekurangan pada penulisan kali ini saya sangat mengharapkan kritik dan masukan dari rekan-rekan bug hunter semua.
