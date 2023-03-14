@@ -25,14 +25,18 @@ Misalkan, ketika 2 atau lebih user ingin melakukan perubahan data pada record ya
 
 Bug ini kerap kali disalahgunakan oleh para hacker untuk mengeksploitasi sistem, dimana seharusnya user tersebut dapat melakukan suatu aksi sekali namun user mendapat keuntungan lain setelah melakukan aksi beberapa kali (secara simultan).
 
+#### Impact
+
+Menggandakan point secara berkala sampai berapapun (_unlimited_)
+
 #### Proof Of Concept!
 
-Tools:
+_Tools:_
 
 * Burp Suite
 * Turbo Intruder (Burp Suite)
 
-Langkah-langkah:
+_Langkah-langkah:_
 
 1. Pertama Login ke akun dicoding melalui link ini [https://www.dicoding.com/login](https://www.dicoding.com/login "https://www.dicoding.com/login").
 2. Pergi ke dashboard tukar point ([https://www.dicoding.com/rewards/966](https://www.dicoding.com/rewards/966 "https://www.dicoding.com/rewards/966")).
