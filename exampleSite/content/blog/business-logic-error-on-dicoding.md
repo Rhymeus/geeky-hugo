@@ -9,7 +9,7 @@ categories:
 type: featured
 
 ---
-Hallo semuanya selamat datang pada artikel pertama saya di blog pribadi saya. Pada kesempatan kali ini izinkan saya untuk membagikan sebuah artikel temuan _bug_ pada sebuah platform pembelajaran online tentang teknologi yang populer di Indonesia yaitu dicoding. 
+Hallo semuanya selamat datang pada artikel pertama saya di blog pribadi saya. Pada kesempatan kali ini izinkan saya untuk membagikan sebuah artikel temuan _bug_ pada sebuah platform pembelajaran online tentang teknologi yang populer di Indonesia yaitu dicoding.
 
 Sebelum saya masuk ke pembahasan, saya akan memberikan sedikit cerita sebelum saya mendapatkan bug ini. Jadi, beberapa bulan sebelum saya mendapatkan bug pada dicoding, saya mengikuti program kampus merdeka yaitu MSIB (magang & studi independent bersertifikat) suatu program pemerintah yang bertujuan untuk para mahasiswa belajar / mencari pengalaman di luar kampus dan mendapatkan full konversi SKS (tidak melakukan kuliah tapi mendapatkan nilai). Dan saya diterima mitra dicoding sebagai tempat belajar saya studi independent selama 1 semester. Singkat cerita saya lulus dari program tersebut selama 1 semester lama-nya dan mendapatkan 1000 point dicoding sebagai hadiah kelulusan. Dan kita akan mulai ke pembahasan-nya.
 
@@ -25,10 +25,18 @@ Misalkan, ketika 2 atau lebih user ingin melakukan perubahan data pada record ya
 
 Bug ini kerap kali disalahgunakan oleh para hacker untuk mengeksploitasi sistem, dimana seharusnya user tersebut dapat melakukan suatu aksi sekali namun user mendapat keuntungan lain setelah melakukan aksi beberapa kali (secara simultan).
 
-#### Work From Home
+#### Proof Of Concept!
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius! Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius!
+Tools:
 
-{{< image src="images/post/post-5.png" caption="Example Caption" alt="alter-text" height="" width="" position="center" command="fill" option="q100" class="img-fluid" title="image title" webp="false" >}}
+* Burp Suite
+* Turbo Intruder (Burp Suite)
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius! Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius!
+Langkah-langkah:
+
+1. Pertama Login ke akun dicoding melalui link ini [https://www.dicoding.com/login](https://www.dicoding.com/login "https://www.dicoding.com/login").
+2. Pergi ke dashboard tukar point ([https://www.dicoding.com/rewards/966](https://www.dicoding.com/rewards/966 "https://www.dicoding.com/rewards/966")).
+3. Capture request dengan intercept pada Burp Suite kemudian send to turbo intruder.
+4. Pilih examples/race.py untuk menggunakan script race condition tersebut.
+5. Diatas request parameter berikan payload seperti ini Test: %s
+6. Klik Attack dan dapat dilihat penyerang dapat menggunakan point secara berulang
