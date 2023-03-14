@@ -2,7 +2,7 @@
 title: Coming Soon
 description: meta description
 image: "/images/coming-soon-banner.png"
-date: 2020-01-08T12:19:25+00:00
+date: 2023-03-12T12:19:25+00:00
 categories: []
 type: featured
 
