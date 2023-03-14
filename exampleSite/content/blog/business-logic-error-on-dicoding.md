@@ -17,7 +17,7 @@ Setelah saya lulus MSIB dan mendapatkan 1000 point dicoding, saya mulai mencari 
 
 #### Apa itu Race Conditon?
 
-![](https://miro.medium.com/v2/resize:fit:360/0*DVIMwe5k8C4g7dsq.png)
+![](https://miro.medium.com/v2/resize:fit:360/0*DVIMwe5k8C4g7dsq.png "Sumber : https://www.mcafee.com/blogs/enterprise/testing-race-conditions-web-applications/")
 
 Misalkan, ketika 2 atau lebih user ingin melakukan perubahan data pada record yang sama, maka akan sering terjadi konflik inilah yang biasa disebut dengan _race condition._ Dengan kata lain, pada _concurrent_ proses, salah satu yang selesai duluan maka berhasil menang, dan yang lain akan mendapatkan error.
 
