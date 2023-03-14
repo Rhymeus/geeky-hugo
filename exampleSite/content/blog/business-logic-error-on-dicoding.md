@@ -41,4 +41,8 @@ Langkah-langkah:
    ![](/images/dicoding-poc-1.png)
 4. Pilih examples/race.py untuk menggunakan script race condition tersebut.
 5. Diatas request parameter berikan payload seperti ini Test: %s
-6. Klik Attack dan dapat dilihat penyerang dapat menggunakan point secara berulang
+
+   ![](/images/dicoding-poc-2.png)
+6. Klik Attack dan dapat dilihat penyerang dapat melakukan request secara bersamaan yaitu 3 request dalam waktu yang sama, dampak nya yaitu hanya dengan menggunakan 300 point tetapi pesanan yang terkonfirmasi ada 3.
+
+   ![Point awal](/images/dicoding-poc-3.png "Point awal")
