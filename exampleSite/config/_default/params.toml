@@ -41,7 +41,7 @@ button_label = "Know About Me"
 button_link = "about/"
 content = "Undergraduate Information System at University of Singaperbangsa, who have passioned in Cyber Security, Penetration Testing, Front-end Web Development. i have an experience in Bug hunting."
 enable = true
-image = "images/banner.png"
+image = "/images/profile-depan.png"
 title_large = "Welcome **!**"
 title_small = "to Rhymeus Blog"
 [cookies]
