@@ -37,6 +37,8 @@ Langkah-langkah:
 1. Pertama Login ke akun dicoding melalui link ini [https://www.dicoding.com/login](https://www.dicoding.com/login "https://www.dicoding.com/login").
 2. Pergi ke dashboard tukar point ([https://www.dicoding.com/rewards/966](https://www.dicoding.com/rewards/966 "https://www.dicoding.com/rewards/966")).
 3. Capture request dengan intercept pada Burp Suite kemudian send to turbo intruder.
+
+   ![](/images/dicoding-poc-1.png)
 4. Pilih examples/race.py untuk menggunakan script race condition tersebut.
 5. Diatas request parameter berikan payload seperti ini Test: %s
 6. Klik Attack dan dapat dilihat penyerang dapat menggunakan point secara berulang
