@@ -25,7 +25,7 @@ Misalkan, ketika 2 atau lebih user ingin melakukan perubahan data pada record ya
 
 Bug ini kerap kali disalahgunakan oleh para hacker untuk mengeksploitasi sistem, dimana seharusnya user tersebut dapat melakukan suatu aksi sekali namun user mendapat keuntungan lain setelah melakukan aksi beberapa kali (secara simultan).
 
-#### Impact
+#### Dampak Kerentanan
 
 Menggandakan point secara berkala sampai berapapun (_unlimited_)
 
