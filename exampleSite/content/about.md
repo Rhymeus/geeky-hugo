@@ -25,7 +25,7 @@ experience:
   - "[GOV] Finance Ministry"
 
 ---
-Hello, I am Ahmad Ray Septa Firdaus a student majoring in **Information Systems** at **Singaperbangsa Karawang University**. I am highly interested in the field of **cybersecurity**, particularly in **penetration testing** and **bug hunting**. I possess the necessary knowledge and skills to identify security vulnerabilities in systems and assist organizations in strengthening their defenses against cyberattacks.
+Hello, I am Ahmad Ray Septa Firdaus a student majoring in **Information Systems** at **Singaperbangsa Karawang University**. I am highly interested in the field of **cybersecurity**, particularly in **penetration testing** and **bug hunting**. I have the knowledge to pinpoint security flaws in systems and support organizations in strengthening their defenses against cyber threats.
 
 Furthermore, I have experience in conducting **penetration testing** and **bug hunting** for companies and government. I also achieved the Top 5 Winners of the Kemdikbud Bug Bounty 2022, which further strengthened my interest in the field of **cybersecurity**. The competition involved performing pentesting on government systems that were still operational.
 
