@@ -9,7 +9,9 @@ categories:
 type: featured
 
 ---
-Hallo semuanya selamat datang pada artikel pertama saya di blog pribadi saya. Pada kesempatan kali ini izinkan saya untuk membagikan sebuah artikel temuan _bug_ pada sebuah platform pembelajaran online teknologi yang populer di Indonesia yaitu dicoding
+Hallo semuanya selamat datang pada artikel pertama saya di blog pribadi saya. Pada kesempatan kali ini izinkan saya untuk membagikan sebuah artikel temuan _bug_ pada sebuah platform pembelajaran online teknologi yang populer di Indonesia yaitu dicoding. 
+
+Sebelum saya masuk ke pembahasan saya akan memberikan sedikit cerita sebelum saya mendapatkan bug ini. Jadi, beberapa bulan sebelum saya mendapatkan bug pada dicoding saya mengikuti program kampus merdeka yaitu MSIB (magang & studi independent bersertifikat) suatu program pemerintah yang bertujuan para mahasiswa untuk belajar di
 
 #### Covid-19 Situation
 
