@@ -33,8 +33,8 @@ search = true
 showing_posts = "Showing Post From"
 theme_copyright = false
 [advertisement]
-image = "images/promotion.png"
-link = "../"
+image = ""
+link = ""
 [banner]
 background_image = "/images/banner-bg-shape.svg"
 button_label = "Know About Me"
