@@ -1,5 +1,5 @@
 ---
-title: Github Repository Controls
+title: Business Logic Error on dicoding.com
 description: meta description
 image: images/post/post-4.png
 date: 2021-01-24T18:19:25.000+06:00
