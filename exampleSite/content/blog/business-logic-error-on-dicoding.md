@@ -57,7 +57,7 @@ Langkah-langkah:
 
    ![](/images/dicoding-poc-5.png)
 
-Berikut langkah-langkah berupa video: [https://youtu.be/_BLyoVYGLTo](https://youtu.be/_BLyoVYGLTo "https://youtu.be/_BLyoVYGLTo")
+_Jika masih ada yang belum paham, berikut langkah-langkah berupa video:_ [_https://youtu.be/_BLyoVYGLTo_](https://youtu.be/_BLyoVYGLTo "https://youtu.be/_BLyoVYGLTo")
 
 #### Timeline
 
