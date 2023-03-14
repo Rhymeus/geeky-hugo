@@ -1,7 +1,7 @@
 ---
 title: Business Logic Error on Dicoding
 description: meta description
-image: images/post/post-4.png
+image: images/dicoding-thumb.png
 date: 2021-01-24T18:19:25.000+06:00
 categories:
 - Bug Bounty
