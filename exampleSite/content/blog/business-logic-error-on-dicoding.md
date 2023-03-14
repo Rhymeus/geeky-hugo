@@ -57,7 +57,7 @@ _Langkah-langkah:_
 
    ![](/images/dicoding-poc-4.png)
 
-   Ketika 3 pesanan diatas dibatalkan oleh admin maka point akan dikembalikan. Jadi hanya modal 300 point, dengan menggunakan methode ini point tersebut akan kembali 3x lipat yaitu 900 Point:
+   Ketika 3 pesanan diatas dibatalkan oleh admin maka point akan dikembalikan. Jadi hanya modal 300 point, dengan menggunakan metode ini, point tersebut akan kembali 3x lipat yaitu 900 Point:
 
    ![](/images/dicoding-poc-5.png)
 
