@@ -5,7 +5,7 @@ image: "/images/profile-about.png"
 layout: about
 education:
   enable: true
-  title: Awards & License
+  title: Awards & Licensee
   education_list:
   - name: Top 5 Winner Of Kemdikbud Bug Bounty 2022
     content: Issued by Kemdikbud Ristek · Aug 2022
