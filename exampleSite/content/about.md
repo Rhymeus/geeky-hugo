@@ -4,8 +4,8 @@ description: this is meta-description
 image: "/images/profile-about.png"
 layout: about
 education:
-  enable: false
-  title: Awards
+  enable: true
+  title: Awards & License
   education_list:
   - name: Top 5 Winner Of Kemdikbud Bug Bounty 2022
     content: Issued by Kemdikbud Ristek · Aug 2022
