@@ -1,4 +1,4 @@
-baseURL = "https://rhymeus.netlify.com/"
+baseURL = "https://rhyme-us.com/"
 disableLanguages = ["fr"]
 disqusShortname = "themefisher-template"
 googleAnalytics = ""
