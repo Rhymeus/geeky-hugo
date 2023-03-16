@@ -5,10 +5,12 @@ image: "/images/profile-about.png"
 layout: about
 education:
   enable: true
-  title: Honors & Awards
+  title: Awards & License
   education_list:
   - name: Top 5 Winner Of Kemdikbud Bug Bounty 2022
     content: Issued by Kemdikbud Ristek · Aug 2022
+  - name: Certified AppSec Practitioner (CAP)
+    content: Issued by The SecOps Group · Dec 2022
 experience:
   enable: true
   title: Security Acknowledgement
